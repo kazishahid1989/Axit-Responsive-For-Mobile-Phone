@@ -1,0 +1,307 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  .banner{
+    height: auto;
+  }
+  .banner-content{
+    height: auto;
+    padding-left: 0;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .banner-content .line{
+    margin: 20px auto;
+  }
+  .banner-content p{
+    margin-right:0;
+    margin-bottom: 20px;
+  }
+  .banner-form{
+    width: auto;
+    height: auto;
+  }
+  .btn{
+    padding: 6px 10px;
+  }
+  .banner-form .card{
+    width: auto;
+    margin-bottom: 20px;
+    margin-left: 45px
+  }
+  .input-control{
+    width: auto;
+    margin-bottom: 10px;
+  }
+  .card-footer .input-value{
+    margin-left: 70px;
+  }
+  .media-content{
+    text-align: center;
+  }
+  .media-content h1{
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .media-content p{
+    margin-right: 0;
+  }
+  .social-icon{
+    text-align: center;
+  }
+  .social-icon i{
+    margin-top: 15px;
+    margin-right: 20px;
+  }
+  .tab-ber{
+    padding: 50px 0px;
+  }
+  .tab-left{
+    padding-left: 0;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  .tab-left li{
+    display: inline-block;
+  }
+  .tab-left .box{
+    display: inline-block;
+  }
+  .tab-left .tab1:first-child {
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+  .tab-left .tab2{
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+  .tab-left .tab3:last-child {
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+  }
+  .tab-middle h1{
+    margin: 40px 0;
+  }
+  .tab-middle p {
+    margin-right: 0;
+    font-size: 14px;
+    text-align: justify;
+  }
+  .btn2{
+    margin-left: 110px;
+    margin-bottom: 50px;
+  }
+  .sub-list{
+    padding: 50px 0;
+  }
+  .sublist-content{
+    text-align: center;
+  }
+  .sublist-content h1{
+    font-size: 24px;
+    margin-bottom: 0;
+  }
+  .sublist-content .line2{
+    margin: 20px auto;
+  }
+  .sublist-content p{
+    margin-right: 0;
+  }
+  .top-icon{
+    margin: 20px auto;
+  }
+  .bottom-icon{
+    margin: 20px auto;
+  }
+  .bottom-content p{
+    margin-bottom: 0;
+  }
+
+
+  .standard-section{
+    padding: 50px 0;
+  }
+  .standard-content{
+    text-align: center;
+  }
+  .standard-content h1{
+    font-size: 24px;
+    margin: 0px 0px;
+  }
+  .standard-content .line3{
+    margin: 20px auto;
+  }
+.standard-content p{
+  margin-right: 0;
+  text-align: justify;
+}
+
+.awesome{
+  width: auto;
+  height: auto;
+  padding: 50px 0;
+}
+.awesome-item h1{
+  font-size: 24px;
+  margin-top: 0;
+}
+.item-content h1{
+  margin: 30px 0;
+  text-align: center;
+}
+.item-content p{
+  font-size: 14px;
+}
+.item-middle{
+  margin-top: 40px;
+}
+.item-left{
+  margin-left:142px;
+}
+.item-right{
+  margin-top: 40px;
+  margin-left: 142px;
+}
+.pricing-area{
+  width: auto;
+  padding: 50px 0;
+}
+.pricing-information h1{
+  font-size: 24px;
+}
+.pricing-information p{
+  margin-bottom: 50;
+}
+.col1{
+  margin-top:0px;
+}
+.col-middle{
+  margin: 50px 0;
+}
+
+.customer-section{
+  width: auto;
+  padding: 50px 0;
+}
+.customer-content h1{
+  font-size: 24px;
+  margin-bottom: 0;
+}
+.customer-content p{
+  font-size: 14px;
+}
+.cust-left{
+  margin: 0px 30px;
+}
+.cust-left .card-body{
+  width: auto;
+  height: auto;
+  text-align: justify;
+}
+.col-md-3{
+  width: 30%;
+}
+.col-md-9{
+  width: 70%;
+}
+.middle2{
+  margin: 40px 0;
+}
+.design-section {
+  width: auto;
+  padding: 50px 0;
+}
+.design-area h1{
+  font-size: 24px;
+}
+.contact-section{
+  padding: 50px 0;
+}
+.contact-area h1{
+  font-size: 24px;
+}
+.form{
+  margin: 0px 10px;
+}
+.input-item{
+  width: 100%;
+  margin-bottom: 0;
+}
+.text-area{
+  width:100%;
+  height: auto;
+  padding: 10px 10px;
+}
+.contact-btn{
+  text-align: center;
+}
+.contact-btn button{
+  margin-top: 30px;
+}
+.footer-content h5{
+  margin-bottom: 60px;
+}
+
+}
